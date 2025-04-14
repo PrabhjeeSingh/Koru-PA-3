@@ -72,7 +72,7 @@ To get started with the project, follow these steps:
 
 ## Contributors
 - Aum Patel
-- Prabhjee Sing
+- Prabhjee Singh
 - Yash Dani
 
 ## Significant Commits
